@@ -379,8 +379,8 @@ ul {
 
 #Tema2 .column_film {
 
-    width: 50vw;
-    height: 40vw;
+    width: 50%;
+    height: 50%;
 
 
 }
@@ -396,9 +396,9 @@ ul {
 
 #Tema2 .content_film {
 
-    width: 20vw;
-    height: 20vw;
-    top: -20%;
+    width: 50%;
+    height: 50%;
+
 
 }
 
@@ -515,12 +515,18 @@ ul {
 
 }
 
-#tema4 .column_app {
+#tema4 .column_app_mayday {
     flex-basis: 400px;
-    justify-content: flex-start;
-    text-align: start;
-    margin-left: 10%;
-    margin-right: 10%;
+    justify-content: center;
+    left: 30%;
+    height: 55%;
+    width: 60%;
+}
+
+#tema4 .column_app_rep {
+    flex-basis: 400px;
+    justify-content: center;
+    right: 30%;
 }
 
 /*****tema4 section slut************/
