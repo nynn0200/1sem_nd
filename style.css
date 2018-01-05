@@ -227,8 +227,8 @@ body {
 
 #splash {
     width: 100vw;
-    height: 167vw;
-    background-image: url(image/splash.jpg);
+    height: 60vw;
+    background-image: url(image/blomst2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -469,6 +469,7 @@ ul {
 #Tema4 .sectionwrapper {
     display: flex;
     flex-wrap: wrap;
+    margin: auto;
     width: 100vw;
     justify-content: flex-start;
     border-bottom-style: solid;
@@ -519,14 +520,14 @@ ul {
     flex-basis: 400px;
     justify-content: center;
     left: 30%;
-    height: 55%;
-    width: 60%;
+
 }
 
 #tema4 .column_app_rep {
     flex-basis: 400px;
     justify-content: center;
     right: 30%;
+    margin-left: 50px;
 }
 
 /*****tema4 section slut************/
