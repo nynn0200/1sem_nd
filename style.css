@@ -231,7 +231,7 @@ body {
     background-image: url(image/cph.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    top: 30;
+
 }
 
 
@@ -246,12 +246,14 @@ body {
 /**********skrift start********/
 
 h1 {
+    font-family: 'Open Sans', sans-serif;
     justify-content: center;
     text-align: center;
     color: dimgray;
 }
 
 h2 {
+    font-family: 'Open Sans', sans-serif;
     justify-content: center;
     text-align: center;
     padding-top: 20px;
@@ -262,6 +264,7 @@ h2 {
 }
 
 h3 {
+    font-family: 'Open Sans', sans-serif;
     color: dimgray;
 }
 
@@ -350,8 +353,8 @@ ul {
 
 #Tema1 .colum_content img {
 
-    width: 37vw;
-    height: 33vw;
+    width: 47vw;
+    height: 36vw;
     top: -20%;
 
 }
