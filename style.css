@@ -227,10 +227,11 @@ body {
 
 #splash {
     width: 100vw;
-    height: 60vw;
-    background-image: url(image/blomst2.jpg);
+    height: 59vw;
+    background-image: url(image/cph.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    top: 30;
 }
 
 
