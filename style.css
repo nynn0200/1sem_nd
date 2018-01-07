@@ -246,14 +246,12 @@ body {
 /**********skrift start********/
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
     justify-content: center;
     text-align: center;
     color: dimgray;
 }
 
 h2 {
-    font-family: 'Open Sans', sans-serif;
     justify-content: center;
     text-align: center;
     padding-top: 20px;
@@ -264,7 +262,6 @@ h2 {
 }
 
 h3 {
-    font-family: 'Open Sans', sans-serif;
     color: dimgray;
 }
 
@@ -384,7 +381,7 @@ ul {
 #Tema2 .column_film {
 
     width: 50%;
-    height: 50%;
+    height: auto;
 
 
 }
@@ -401,7 +398,7 @@ ul {
 #Tema2 .content_film {
 
     width: 50%;
-    height: 50%;
+    height: auto;
 
 
 }
@@ -522,16 +519,23 @@ ul {
 
 #tema4 .column_app_mayday {
     flex-basis: 400px;
-    justify-content: center;
-    left: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
 
 }
 
 #tema4 .column_app_rep {
     flex-basis: 400px;
-    justify-content: center;
-    right: 30%;
-    margin-left: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+
+
 }
 
 /*****tema4 section slut************/
