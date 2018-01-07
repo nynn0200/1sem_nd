@@ -378,8 +378,8 @@ ul {
 
 }
 
-#Tema2 .column_film {
 
+#Tema2 .column_film {
     flex-basis: 400px;
     background-position: center;
     background-repeat: no-repeat;
@@ -391,9 +391,7 @@ ul {
     flex-grow: 1;
     width: 100%;
     height: auto;
-
 }
-
 
 #Tema2 .column_content {
     flex-basis: 400px;
