@@ -522,6 +522,11 @@ ul {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: none;
+    overflow: auto;
+    flex-grow: 1;
     width: 100%;
     height: auto;
 
@@ -532,8 +537,15 @@ ul {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: none;
+    overflow: auto;
+    flex-grow: 1;
     width: 100%;
     height: auto;
+
+
 
 
 }
