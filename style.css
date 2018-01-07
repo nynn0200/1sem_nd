@@ -400,6 +400,8 @@ ul {
     flex-grow: 1;
     width: 100%;
     height: auto;
+    margin: 0;
+    padding: 0;
 }
 
 #Tema2 .column_content {
@@ -423,6 +425,8 @@ ul {
     flex-grow: 1;
     width: 100%;
     height: auto;
+    margin: 0;
+    padding: 0;
 
 
 }
@@ -536,40 +540,33 @@ ul {
 }
 
 #Tema4 .column_narrow {
-    text-align: left;
-    flex-basis: 300vw;
+    flex-basis: 500%;
+    height: 200%;
+    width: 100%;
 
 }
 
 #tema4 .column_app_mayday {
-    flex-basis: 400px;
-    background-position: center;
+    background-position: cover;
     background-repeat: no-repeat;
-    background-size: cover;
-    margin: 0;
-    padding: 0;
-    border: none;
-    overflow: auto;
-    flex-grow: 1;
+    background-size: auto;
+    flex-basis: 500px;
     width: 100%;
     height: auto;
+    margin: 0;
+    padding: 0;
 
 }
 
 #tema4 .column_app_rep {
-    flex-basis: 400px;
-    background-position: center;
+    background-position: cover;
     background-repeat: no-repeat;
-    background-size: cover;
-    margin: 0;
-    padding: 0;
-    border: none;
-    overflow: auto;
-    flex-grow: 1;
+    background-size: auto;
+    flex-basis: 500px;
     width: 100%;
     height: auto;
-
-
+    margin: 0;
+    padding: 0;
 
 
 }
