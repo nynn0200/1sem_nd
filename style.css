@@ -380,9 +380,17 @@ ul {
 
 #Tema2 .column_film {
 
-    width: 50%;
+    flex-basis: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: none;
+    overflow: auto;
+    flex-grow: 1;
+    width: 100%;
     height: auto;
-
 
 }
 
@@ -397,7 +405,16 @@ ul {
 
 #Tema2 .content_film {
 
-    width: 50%;
+    flex-basis: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: none;
+    overflow: auto;
+    flex-grow: 1;
+    width: 100%;
     height: auto;
 
 
